@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import AddUser from './Users/AddUser';
 import UserList from './Users/UserList';
